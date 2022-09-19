@@ -1,9 +1,5 @@
 [
   {
-    "package": "lingmatch",
-    "oncran": true
-  },
-  {
     "package": "splot",
     "oncran": true
   }
